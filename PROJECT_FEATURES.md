@@ -10,3 +10,6 @@ As a researcher, I want to invite collaborators so we can work together.
  dev
 **Status: Implemented**
 
+## FR-06: File Upload
+As a researcher I want to upload papers and datasets so that I can store my research materials.
+**Status: Implemented**
